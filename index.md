@@ -6,6 +6,6 @@ Hi I'm Simon, an international freshman at W&M! I like Mathematics and athletics
 
 
 
-Project_1 (https://github.com/SimonZhang27/DATA_100_WP/blob/main/Project_1_plot.md)
+Project_1(https://github.com/SimonZhang27/DATA_100_WP/blob/main/Project_1_plot.md)
 
 First DS Reflection(https://github.com/SimonZhang27/DATA_100_WP/blob/main/First_DS_Reflection.md)
