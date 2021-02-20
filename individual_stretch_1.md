@@ -1,16 +1,16 @@
 # Graphical comparison of Croatian subdivisions from three different sources
 
-# GADM
+# - GADM
 ![Croatia](https://user-images.githubusercontent.com/78221789/108592904-505ff580-73ab-11eb-98ae-1efda74714f3.png)
 
 
 
-# HDX
+# - HDX
 ![HDX Croatia](https://user-images.githubusercontent.com/78221789/108592905-535ae600-73ab-11eb-98f9-686c002a448c.png)
 
 
 
-# geoBoundaries
+# - geoBoundaries
 <img width="278" alt="geoBoundariesPreviewSSCU-3_0_0-HRV-ADM1" src="https://user-images.githubusercontent.com/78221789/108592907-57870380-73ab-11eb-87d7-2edefba0a603.png">
 
 <img width="278" alt="geoBoundariesPreviewSSCU-3_0_0-HRV-ADM2" src="https://user-images.githubusercontent.com/78221789/108592908-581f9a00-73ab-11eb-925d-86bbcc1db08c.png">
