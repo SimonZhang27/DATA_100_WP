@@ -12,4 +12,4 @@ Hi I'm Simon, an international freshman at W&M. I like Mathematics and athletics
 [First DS Reflection](https://github.com/SimonZhang27/DATA_100_WP/blob/main/First_DS_Reflection.md)
 
 
-[Project 2]()
+[Project 2](https://github.com/SimonZhang27/DATA_100_WP/blob/main/Project_2.md)
