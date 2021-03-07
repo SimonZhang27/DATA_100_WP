@@ -6,12 +6,13 @@ Hi I'm Simon, an international freshman at W&M. I like Mathematics and athletics
 
 
 [Project_1](https://github.com/SimonZhang27/DATA_100_WP/blob/main/Project_1_plot.md)
-- [stretch_1](https://github.com/SimonZhang27/DATA_100_WP/blob/main/individual_stretch_1.md)
-- [stretch_2](https://github.com/SimonZhang27/DATA_100_WP/blob/main/individual_stretch_2.md)
+- [stretch 1](https://github.com/SimonZhang27/DATA_100_WP/blob/main/individual_stretch_1.md)
+- [stretch 2](https://github.com/SimonZhang27/DATA_100_WP/blob/main/individual_stretch_2.md)
 
 
 [Project_2](https://github.com/SimonZhang27/DATA_100_WP/blob/main/Project_2.md)
 - [stretch 1](https://github.com/SimonZhang27/DATA_100_WP/blob/main/Prj2_stretch_1.md)
+- [stretch 2](https://github.com/SimonZhang27/DATA_100_WP/blob/main/Prj2_stretch_2.md)
 
 
 
