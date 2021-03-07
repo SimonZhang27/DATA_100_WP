@@ -11,6 +11,7 @@ Hi I'm Simon, an international freshman at W&M. I like Mathematics and athletics
 
 
 [Project_2](https://github.com/SimonZhang27/DATA_100_WP/blob/main/Project_2.md)
+- [stretch 1](![hrv_pop20_2](https://user-images.githubusercontent.com/78221789/110233127-f93a5300-7f5c-11eb-939e-2bb34b295741.png))
 
 
 
