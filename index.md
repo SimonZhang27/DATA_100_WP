@@ -18,3 +18,4 @@ Hi I'm Simon, an international freshman at W&M. I like Mathematics and athletics
 
 # Data Reflection:
 [1st DS Reflection](https://github.com/SimonZhang27/DATA_100_WP/blob/main/First_DS_Reflection.md)
+[2nd DS Reflection](https://github.com/SimonZhang27/DATA_100_WP/blob/main/DS_Reflection_2.md)
