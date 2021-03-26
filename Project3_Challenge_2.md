@@ -12,6 +12,9 @@ We can see from the above screenshot that R-squared value is 0.9707, which is ve
 
 
 
+
+
+
 # Pic 2
 ![hrv_adm2_RegressionModel_2](https://user-images.githubusercontent.com/78221789/112621243-7a05b400-8e64-11eb-96bd-5132e542d45f.png)
 
