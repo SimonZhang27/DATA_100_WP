@@ -1,4 +1,4 @@
-# Two plots of my selected country, Croatia
+# Two plots of Croatia's counties
 
 Plot 1
 ![hrv_Stretch_Goal1_1](https://user-images.githubusercontent.com/78221789/112622744-6c512e00-8e66-11eb-864d-18d2a5ae18cb.png)
