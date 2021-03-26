@@ -31,4 +31,4 @@ Extra credit:
 
 [2nd DS Reflection](https://github.com/SimonZhang27/DATA_100_WP/blob/main/DS_Reflection_2.md)
 
-[3rd DS Reflection]()
+[3rd DS Reflection](https://github.com/SimonZhang27/DATA_100_WP/blob/main/DS_Reflection_3.md)
