@@ -19,6 +19,7 @@ Hi I'm Simon, an international freshman at W&M. I like Mathematics and athletics
 
 # Project 3
 [Challenge 1](https://github.com/SimonZhang27/DATA_100_WP/blob/main/Project_3.md)
+
 [Challenge 2](https://github.com/SimonZhang27/DATA_100_WP/blob/main/Project3_Challenge_2.md)
 
 
