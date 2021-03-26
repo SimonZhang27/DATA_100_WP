@@ -23,7 +23,8 @@ Hi I'm Simon, an international freshman at W&M. I like Mathematics and athletics
 - [Challenge 2](https://github.com/SimonZhang27/DATA_100_WP/blob/main/Project3_Challenge_2.md)
 
 Extra credit:
-- [Stretch Goal 1]()
+- [Stretch Goal 1](https://github.com/SimonZhang27/DATA_100_WP/blob/main/Prj3_stretch_1.md)
+
 
 # Data Reflection:
 [1st DS Reflection](https://github.com/SimonZhang27/DATA_100_WP/blob/main/First_DS_Reflection.md)
