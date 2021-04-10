@@ -28,7 +28,8 @@ Extra credit:
 
 # Project 4
 - [Challenge 1](https://github.com/SimonZhang27/DATA_100_WP/blob/main/Project4_Challenge_1.md)
-- [Challenge 2]()
+- [Challenge 2](https://github.com/SimonZhang27/DATA_100_WP/blob/main/Project4_Challenge_2.md)
+
 
 
 # Data Reflection:
