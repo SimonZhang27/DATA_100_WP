@@ -19,6 +19,8 @@ pop
 
 https://github.com/SimonZhang27/DATA_100_WP/files/6289435/project4_1_Velika_pop_3dplot.pdf
 
+<img width="773" alt="截屏2021-04-10 下午3 46 45" src="https://user-images.githubusercontent.com/78221789/114262726-1eb2f480-9a14-11eb-881a-1be820b5a816.png">
+
 
 
 Three graphs at different size at mapview:
