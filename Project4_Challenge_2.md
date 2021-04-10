@@ -33,4 +33,7 @@
 <img width="461" alt="截屏2021-04-10 下午3 57 50" src="https://user-images.githubusercontent.com/78221789/114263014-9df4f800-9a15-11eb-92dc-8fa14253de01.png">
 
 
+
 # Plot of hrv_pop15
+![hrv_pop20](https://user-images.githubusercontent.com/78221789/114263044-d8f72b80-9a15-11eb-9494-3baeaef5cc03.png)
+
