@@ -24,3 +24,13 @@
 
 
 - Three plots that reponse variable is log of population and the predictors are mean of covariates
+![hrv_adm2_population_logpop](https://user-images.githubusercontent.com/78221789/114262999-87e73780-9a15-11eb-9101-c37abeedf817.png)
+
+![hrv_adm2_diff_logpop](https://user-images.githubusercontent.com/78221789/114263001-8a499180-9a15-11eb-89c8-8c221b74ceed.png)
+
+[project4_2_logpop_3dplot.pdf](https://github.com/SimonZhang27/DATA_100_WP/files/6289462/project4_2_logpop_3dplot.pdf)
+
+<img width="461" alt="截屏2021-04-10 下午3 57 50" src="https://user-images.githubusercontent.com/78221789/114263014-9df4f800-9a15-11eb-92dc-8fa14253de01.png">
+
+
+# Plot of hrv_pop15
