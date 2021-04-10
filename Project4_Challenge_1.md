@@ -17,4 +17,4 @@ pop
 
 3D plot
 
-[project4_1_Velika_pop_3dplot.pdf](https://github.com/SimonZhang27/DATA_100_WP/files/6289435/project4_1_Velika_pop_3dplot.pdf)
+https://github.com/SimonZhang27/DATA_100_WP/files/6289435/project4_1_Velika_pop_3dplot.pdf
