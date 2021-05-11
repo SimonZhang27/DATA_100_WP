@@ -27,4 +27,4 @@
 
 
 # Final Plot
-<img width="1157" alt="Urbanized Areas of pop in Croatia" src="https://user-images.githubusercontent.com/78221789/116840195-87525300-ac07-11eb-92ed-dc8652a92c5f.png">
+<img width="970" alt="截屏2021-05-11 下午6 53 22" src="https://user-images.githubusercontent.com/78221789/117805174-3f789f00-b28b-11eb-9fa2-e9f665c9dea5.png">
