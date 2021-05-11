@@ -7,6 +7,9 @@ Roads Network in Split, Croatia
 
 
 
+
+
 Health Facilities in Split, Croatia
+(where in map blue points are hospitals; purple are clinics, and pink are doctors.)
 
 <img width="1437" alt="Split_health_facility" src="https://user-images.githubusercontent.com/78221789/117830645-6abcb780-b2a6-11eb-9fc8-946d4e028fc2.png">
