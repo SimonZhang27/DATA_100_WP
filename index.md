@@ -37,7 +37,7 @@ Extra credit:
 
 # Final Project
 - [Plots](https://github.com/SimonZhang27/DATA_100_WP/blob/main/Project_Final.md)
-- [Words Report]()
+- [Word Report]()
 
 
 # Data Reflection:
