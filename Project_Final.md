@@ -4,8 +4,11 @@
 # Roads Network in Split, Croatia.
 
 Note:
+
 orange lines: primary roads
+
 blue lines: secondary roads
+
 green lines: green roads
 
 <img width="1440" alt="Split_Roads_Croatia" src="https://user-images.githubusercontent.com/78221789/117830633-685a5d80-b2a6-11eb-9e7c-fb98bb86da52.png">
