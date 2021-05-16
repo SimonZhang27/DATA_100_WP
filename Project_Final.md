@@ -24,7 +24,6 @@ green lines: tertiary roads
 
 
 
-
 # Accessibility 3
 
 - 3D plots of Split, Croatia
@@ -38,9 +37,13 @@ green lines: tertiary roads
 - 2D plots
 <img width="1409" alt="截屏2021-05-11 下午11 51 23" src="https://user-images.githubusercontent.com/78221789/118363062-2fcbc400-b5c5-11eb-9e3e-d8d1772208d3.png">
 
+
+
+These are two last plots shown on my RStudio "Plots" part, including spots of roads, health facilities in Splitsko-Dalmatinska & Split, Croatia.
+
 <img width="1416" alt="截屏2021-05-13 下午5 21 24" src="https://user-images.githubusercontent.com/78221789/118363064-30645a80-b5c5-11eb-8e97-8b2c061b5855.png">
 
-
-
-
 ![Splitsko-Dalmatinska   Split_combined](https://user-images.githubusercontent.com/78221789/118363066-33f7e180-b5c5-11eb-850c-e5b7222a2a7c.png)
+
+(PS: Sorry, as I run the very last step in transforming my 2D plot in 3D, it shows that it cannot transform into the picture I expected as shown in your webpage paradigm, Professor. I have tried at least three times including closing them and re-openning them, but my 3D model plot never changes. The 2D plots shown above are exactly right as I have expected them to be. But just at the very last step it does not work in making it into a 3D format - I guess the reason has something to do with my XQuartz software in computer; it cannot update to the lastest version for some reasons. I have checked with my friends in this class, and it appears that I get the same result as them except for the last 3D-angle plot. I even doublecheck all my codes and they seem perfectly okay. I'm really sorry for this last missing 3D plot though I have got all the other 3D and 2D plots there (already shown above). That being said, I could still envision what it looks like, but it's just to be presenting on my computer. 
+If you have further questions, please feel free to contact me at my e-mail: yzhang82@email.wm.edu
